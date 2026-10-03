@@ -1,3 +1,4 @@
+CREATE SCHEMA IF NOT EXISTS `ejercicio_bdd`;
 USE ejercicio_bdd;
 DROP TABLE IF EXISTS estudiante;
 
